@@ -172,7 +172,7 @@
                             android:text="未来天气预报"
                             android:textSize="17sp"
                             android:textColor="@color/white"
-                            android:padding="8dp"
+                            android:padding="９dp"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content" />
                         <ListView
